@@ -1,6 +1,7 @@
 buildscript {
     repositories {
         google()
+        maven { url 'https://jitpack.io' }
         maven {
             url "https://oss.sonatype.org/content/repositories/snapshots/"
         }
@@ -14,13 +15,14 @@ buildscript {
 }
 
 allprojects {
-    ext {
+  /*  ext {
         libraryVersion = '1.0'
         mavenGroupId = 'com.moslem'
         siteUrl = 'https://github.com/moslem7342/my-bubbles-for-android'
         gitUrl = 'https://github.com/moslem7342/my-bubbles-for-android.git'
-    }
+    }*/
     repositories {
+        maven { url 'https://jitpack.io' }
         google()
         jcenter()
     }
