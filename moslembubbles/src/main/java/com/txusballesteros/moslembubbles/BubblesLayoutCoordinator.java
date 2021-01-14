@@ -22,10 +22,8 @@
  *
  * Contact: Txus Ballesteros <txus.ballesteros@gmail.com>
  */
-package com.txusballesteros.bubbles;
+package com.txusballesteros.moslembubbles;
 
-import android.content.Context;
-import android.os.Vibrator;
 import android.view.View;
 import android.view.WindowManager;
 

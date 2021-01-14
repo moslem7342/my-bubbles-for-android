@@ -22,7 +22,7 @@
  *
  * Contact: Txus Ballesteros <txus.ballesteros@gmail.com>
  */
-package com.txusballesteros.bubbles;
+package com.txusballesteros.moslembubbles;
 
 public interface OnInitializedCallback {
     void onInitialized();

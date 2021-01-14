@@ -22,7 +22,7 @@
  *
  * Contact: Txus Ballesteros <txus.ballesteros@gmail.com>
  */
-package com.txusballesteros.bubbles.app;
+package com.txusballesteros.moslembubbles.app;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
@@ -30,9 +30,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Toast;
 
-import com.txusballesteros.bubbles.BubbleLayout;
-import com.txusballesteros.bubbles.BubblesManager;
-import com.txusballesteros.bubbles.OnInitializedCallback;
+import com.txusballesteros.moslembubbles.BubbleLayout;
+import com.txusballesteros.moslembubbles.BubblesManager;
+import com.txusballesteros.moslembubbles.OnInitializedCallback;
 
 public class MainActivity extends ActionBarActivity {
 
