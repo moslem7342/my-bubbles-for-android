@@ -18,6 +18,7 @@ Add the library dependency in your build.gradle file.
 ```groovy
 dependencies {
     ...
+    	        implementation 'com.github.moslem7342:my-bubbles-for-android:1.0'
   
 }
 ```
