@@ -15,6 +15,16 @@ Bubbles for Android is an Android library to provide chat heads capabilities on 
 
 Add the library dependency in your build.gradle file.
 
+
+```groovy
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
 ```groovy
 dependencies {
     ...
